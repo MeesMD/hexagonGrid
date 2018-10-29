@@ -1,8 +1,8 @@
 ## Project
-Dit is een grid gemaakt uit hexagons. Als eerst heb ik een hexagon gegenereerd met een algoritme. Daarna gebruik ik een loop om meerdere hexagons neer te zetten met een bepaalde offset zodat er een grid word word.
+Dit is een grid gemaakt uit hexagons. Als eerst heb ik een hexagon gegenereerd met een algoritme. Daarna gebruik ik een loop om meerdere hexagons neer te zetten met een bepaalde offset zodat er een grid gevormd word.
 
 ## Software Anaylse 
-
+Ik heb voor deze opdracht de engine Processing3 gekozen omdat je met processing makkelijker visueel dingen kunt programmeren. Het nadeel is wel dat al wil je het later uitbereiden naar 3D dat het dan lastiger gaat worden dan met bijvoorbeeld Unity.
 
 ## Leerdoelen 
 - Het Flood-Fill algoritme snappen en toepassen.
