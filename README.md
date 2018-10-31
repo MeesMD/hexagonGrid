@@ -1,4 +1,4 @@
-## Project
+## Hexagon Grid
 Dit is een grid gemaakt uit hexagons. Als eerst heb ik een hexagon gegenereerd met een algoritme. Daarna gebruik ik een loop om meerdere hexagons neer te zetten met een bepaalde offset zodat er een grid gevormd word.
 
 ## Software Anaylse 
