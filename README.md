@@ -5,8 +5,8 @@ Dit is een grid gemaakt uit hexagons. Ik heb als eerst gekeken hoe je een hexago
 - [Grid algoritme](https://github.com/MeesMD/hexagonGrid/blob/master/main.pde)
 - [Hexagon algoritme](https://github.com/MeesMD/hexagonGrid/blob/master/Hexagon.pde)
 
-## Software Anaylse 
-Ik heb voor deze opdracht de engine Processing3 gekozen omdat je met processing makkelijker visueel dingen kunt programmeren. En ookal is het een library voor Javascript, het heeft toch een eigen engine wat ik persoonlijk fijner vind.
+## Software Anaylse
+Ik heb voor deze opdracht de engine Processing3 gekozen omdat je met processing makkelijker visueel dingen kunt programmeren. En ookal is het een library voor Javascript, het heeft toch een eigen engine wat ik persoonlijk fijner vind. 
 
 ## Leerdoelen 
 - Het beter begrijpen van processing3
