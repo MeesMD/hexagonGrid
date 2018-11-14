@@ -6,7 +6,7 @@ Dit is een grid gemaakt uit hexagons. Ik heb als eerst gekeken hoe je een hexago
 - [Hexagon algoritme](https://github.com/MeesMD/hexagonGrid/blob/master/Hexagon.pde)
 
 ## Software Anaylse 
-Ik heb voor deze opdracht de engine Processing3 gekozen omdat je met processing makkelijker visueel dingen kunt programmeren. En ookal is het een library voor Javascript, het heeft toch een eigen engine wat ik persoonlijk fijner vind.  
+Ik heb voor deze opdracht de engine Processing3 gekozen omdat je met processing makkelijker visueel dingen kunt programmeren. En ookal is het een library voor Javascript, het heeft toch een eigen engine wat ik persoonlijk fijner vind.
 
 ## Leerdoelen 
 - Het beter begrijpen van processing3
@@ -16,8 +16,8 @@ Ik heb voor deze opdracht de engine Processing3 gekozen omdat je met processing 
 ## Planning 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |Onderzoek|Voorbeelden gezocht|Begin gemaakt||| 
-|week 2 |Hexagon algoritme af|Grid algoritme af|Een extra toevoegen? (color change)|||
+|week 1 |Onderzoek naar hexagon algoritmes|Voorbeelden gezocht van hexagon generations|Start gemaakt met een paar test voor algoritmes||| 
+|week 2 |Hexagon algoritme afgemaakt|Een algorimte maken voor het naast elkaar zetten van de hexagons|Een extra toevoegen? (color change)|||
 
 ## Bronnen
 - [Hexagon algoritme](https://processing.org/examples/regularpolygon.html)
